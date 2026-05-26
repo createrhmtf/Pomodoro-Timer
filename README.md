@@ -25,7 +25,7 @@ Then visit `http://localhost:3000` (serve) or `http://localhost:8080` (Python/PH
 
 ## Deployed URL
 
-> Add your Vercel / Netlify / GitHub Pages URL here after deploying.
+> https://pomodoro-timer-w.netlify.app/
 
 ## Features
 
